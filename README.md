@@ -20,7 +20,6 @@ This list will be organized by topic and attack model.
 - **(ICML'19)**: Analyzing Federated Learning through an Adversarial Lens [`PDF`](https://arxiv.org/pdf/1811.12470.pdf) [`Github`](https://github.com/inspire-group/ModelPoisoning)
     - **Attack Model**: "Single, non-colluding malicious agent where the adversarial objective is to cause the model to mis-classify a set of chosen inputs with high confidence." 
 
-
 ### Defenses
 
 >Model Poisoning
@@ -35,6 +34,8 @@ This list will be organized by topic and attack model.
 
 ## Surveys
 - A survey on security and privacy of federated learning [`URL`](https://www.sciencedirect.com/science/article/abs/pii/S0167739X20329848)
+- Survey on Federated Learning Threats: concepts, taxonomy on attacks and defences, experimental study and challenges [`PDF`](https://arxiv.org/pdf/2201.08135.pdf)
+
 
 ## Other FL paper lists
 - https://github.com/AmberLJC/FLsystem-paper/
