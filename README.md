@@ -33,6 +33,9 @@ This list will be organized by topic and attack model.
 - Vertical Federated Learning: Challenges, Methodologies and Experiments [`PDF`](https://arxiv.org/pdf/2202.04309.pdf)
 
 
+## Surveys
+- A survey on security and privacy of federated learning [`URL`](https://www.sciencedirect.com/science/article/abs/pii/S0167739X20329848)
+
 ## Other FL paper lists
 - https://github.com/AmberLJC/FLsystem-paper/
 - ***https://github.com/innovation-cat/Awesome-Federated-Machine-Learning
