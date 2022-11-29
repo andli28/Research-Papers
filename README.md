@@ -1,6 +1,7 @@
 # Research-Papers
 Papers I find interesting, mostly focused around the intersection of **security, privacy, and ML**.
 
+This will be organized by topic and attack model.
 ## Privacy 
 
 ### Defenses
