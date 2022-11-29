@@ -25,7 +25,7 @@ This list will be organized by topic and attack model.
 
 >Model Poisoning
 - Federated Learning based on Defending Against Data Poisoning Attacks in IoT [`PDF`](https://arxiv.org/pdf/2209.06397.pdf)
-    - **Attack Model**: "A group of p<n/2 malicious label-flipping poisoning attackers, where that n is the total amount of participants’ clients." 
+    - **Attack Model**: "A group of p<n/2 malicious label-flipping poisoning attackers, where n is the total amount of participants’ clients." 
 
 
 
