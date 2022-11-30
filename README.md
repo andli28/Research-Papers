@@ -25,6 +25,9 @@ This list will be organized by topic and attack model.
 >Model Poisoning
 - Federated Learning based on Defending Against Data Poisoning Attacks in IoT [`PDF`](https://arxiv.org/pdf/2209.06397.pdf)
     - **Attack Model**: "A group of p<n/2 malicious label-flipping poisoning attackers, where n is the total amount of participants’ clients." 
+    
+- **(NeurIPS'21)**: FL-WBC: Enhancing Robustness against Model Poisoning Attacks in Federated Learning from a Client Perspective [`PDF`](https://arxiv.org/pdf/2110.13864.pdf) [`Github`](https://github.com/jeremy313/FL-WBC)
+   - **Attack Model**: "Clients mitigate **model poisoning attacks that have already polluted the global model**"
 
 
 
