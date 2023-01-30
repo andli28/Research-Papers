@@ -34,6 +34,13 @@ This list will be organized by topic and attack model (if applicable).
 ## Vertical FL (TO READ)
 - Vertical Federated Learning: Challenges, Methodologies and Experiments [`PDF`](https://arxiv.org/pdf/2202.04309.pdf)
 
+## FL Systems from big tech companies
+### Paper
+
+>Cross-device
+- **Apple**:  Federated Evaluation and Tuning for On-Device Personalization: System Design & Applications | [`PDF`](https://arxiv.org/pdf/2102.08503.pdf), [`PDF`](https://docs-assets.developer.apple.com/ml-research/papers/learning-with-privacy-at-scale.pdf)
+- **Google**: Towards Federated Learning at Scale: System Design | [`MLSys21`](https://arxiv.org/abs/1902.01046), [`Github`](https://www.tensorflow.org/federated)🎓
+- **Meta**: Papaya: Practical, Private, and Scalable Federated Learning | [`MLSys22`](https://arxiv.org/abs/2111.04877) 🎓
 
 ## Data Center Architecture
 - Yarn: [`PDF`](https://www.cse.ust.hk/~weiwa/teaching/Fall15-COMP6611B/reading_list/YARN.pdf)
