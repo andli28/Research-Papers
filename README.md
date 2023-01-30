@@ -6,6 +6,21 @@ My current focus is the burgeoning field of FL.
 
 This list will be organized by topic and attack model (if applicable).
 
+## Table of Contents
+- [Research Papers](#research-papers)
+    - [Table of Contents](#table-of-contents)
+  - [Privacy](#privacy)
+    - [Defenses](#defenses)
+  - [Security](#security)
+    - [Attacks](#attacks)
+    - [Defenses](#defenses)
+  - [Vertical FL](#vertical-fl)  
+  - [FL Systems from big tech companies](#fl-systems-from-big-tech-companies)
+    - [Paper](#paper)
+  - [Data Center Architecture](#data-center-architecture)
+  - [Surveys](#surveys)
+  - [Other FL Paper Lists](other-fl-paper-lists)
+
 ## Privacy 
 
 ### Defenses
@@ -31,7 +46,7 @@ This list will be organized by topic and attack model (if applicable).
 
 
 
-## Vertical FL (TO READ)
+## Vertical FL
 - Vertical Federated Learning: Challenges, Methodologies and Experiments [`PDF`](https://arxiv.org/pdf/2202.04309.pdf)
 
 ## FL Systems from big tech companies
