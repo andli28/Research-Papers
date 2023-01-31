@@ -16,6 +16,7 @@ This list will be organized by topic and attack model (if applicable).
     - [Attacks](#attacks)
     - [Defenses](#defenses)
   - [Vertical FL](#vertical-fl)  
+  - [FL Optimization](#fl-optimization)
   - [FL Systems from big tech companies](#fl-systems-from-big-tech-companies)
     - [Paper](#paper)
   - [Data Center Architecture](#data-center-architecture)
@@ -50,6 +51,10 @@ This list will be organized by topic and attack model (if applicable).
 ## Vertical FL
 - Vertical Federated Learning: Challenges, Methodologies and Experiments [`PDF`](https://arxiv.org/pdf/2202.04309.pdf)
 
+## FL Optimization
+- **(ICML'22)**: Neural Tangent Kernel Empowered Federated Learning [`PDF`](https://arxiv.org/pdf/2110.03681.pdf)
+
+
 ## FL Systems from big tech companies
 ### Paper
 
@@ -63,6 +68,7 @@ This list will be organized by topic and attack model (if applicable).
     - Also see: [`GFG`](https://www.geeksforgeeks.org/hadoop-yarn-architecture/), [`Cloudera`](https://docs.cloudera.com/HDPDocuments/HDP3/HDP-3.0.0/data-operating-system/content/apache_yarn.html)
 - Omega: [`PDF`](https://wiki.epfl.ch/edicpublic/documents/Candidacy%20exam/Schwarzkopf-1.pdf)
     - Also see: [`CS294`](https://people.eecs.berkeley.edu/~istoica/classes/cs294/15/notes/10-omega.pdf), [`CSUDH`](https://csc.csudh.edu/btang/seminar/slides/Omega-Matt_Levan.pdf)
+- Tiresias: A GPU Cluster Manager for Distributed Deep Learning [`PDF`](https://web.eecs.umich.edu/~mosharaf/Readings/Tiresias.pdf)
 
 ## Surveys
 - A survey on security and privacy of federated learning [`URL`](https://www.sciencedirect.com/science/article/abs/pii/S0167739X20329848)
