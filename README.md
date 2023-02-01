@@ -53,6 +53,9 @@ This list will be organized by topic and attack model (if applicable).
 
 ## FL Optimization
 - **(ICML'22)**: Neural Tangent Kernel Empowered Federated Learning [`PDF`](https://arxiv.org/pdf/2110.03681.pdf)
+    - Reduces communication rounds, addresses statistical heterogeneity by transmitting update data that is more expressive than simple model weights/gradients
+- Federated Learning with Spiking Neural Networks [`PDF`](https://arxiv.org/pdf/2106.06579v1.pdf)
+    - Optimizes for energy efficiency
 
 
 ## FL Systems from big tech companies
