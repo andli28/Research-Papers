@@ -71,7 +71,10 @@ This list will be organized by topic and attack model (if applicable).
     - Also see: [`GFG`](https://www.geeksforgeeks.org/hadoop-yarn-architecture/), [`Cloudera`](https://docs.cloudera.com/HDPDocuments/HDP3/HDP-3.0.0/data-operating-system/content/apache_yarn.html)
 - Omega: [`PDF`](https://wiki.epfl.ch/edicpublic/documents/Candidacy%20exam/Schwarzkopf-1.pdf)
     - Also see: [`CS294`](https://people.eecs.berkeley.edu/~istoica/classes/cs294/15/notes/10-omega.pdf), [`CSUDH`](https://csc.csudh.edu/btang/seminar/slides/Omega-Matt_Levan.pdf)
-- Tiresias: A GPU Cluster Manager for Distributed Deep Learning [`PDF`](https://web.eecs.umich.edu/~mosharaf/Readings/Tiresias.pdf)
+- Tiresias: A GPU Cluster Manager for Distributed Deep Learning | [`PDF`](https://web.eecs.umich.edu/~mosharaf/Readings/Tiresias.pdf)
+- Leap: Effectively Prefetching Remote Memory | [`PDF`](https://www.usenix.org/system/files/atc20-maruf.pdf), [`Github`](https://github.com/SymbioticLab/Leap) (USENIX'20)🎓
+    - Two tricks: Prefetching pages wherever possible
+    - Using more efficient data paths that allow them to discard the operating system’s irrelevant disk-access features.
 
 ## Surveys
 - A survey on security and privacy of federated learning [`URL`](https://www.sciencedirect.com/science/article/abs/pii/S0167739X20329848)
