@@ -56,6 +56,7 @@ This list will be organized by topic and attack model (if applicable).
     - Reduces communication rounds, addresses statistical heterogeneity by transmitting update data that is more expressive than simple model weights/gradients
 - Fed-SNN: Federated Learning with Spiking Neural Networks [`PDF`](https://arxiv.org/pdf/2106.06579v1.pdf) [`Github`](https://github.com/Intelligent-Computing-Lab-Yale/FedSNN)
     - Optimizes for energy efficiency
+- Swan: A Neural Engine for Efficient DNN Training on Smartphone SoCs [`PDF`](https://arxiv.org/pdf/2206.04687.pdf)
 
 
 ## FL Systems from big tech companies
