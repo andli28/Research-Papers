@@ -52,12 +52,13 @@ This list will be organized by topic and attack model (if applicable).
 - Vertical Federated Learning: Challenges, Methodologies and Experiments [`PDF`](https://arxiv.org/pdf/2202.04309.pdf)
 
 ## FL Optimization
-- [Oort: Efficient Federated Learning via Guided Participant Selection](https://www.usenix.org/conference/osdi21/presentation/lai) | OSDI 21 🎓
+- Oort: Efficient Federated Learning via Guided Participant Selection[`PDF`](https://www.usenix.org/conference/osdi21/presentation/lai) | OSDI 21 🎓
 - **(ICML'22)**: Neural Tangent Kernel Empowered Federated Learning [`PDF`](https://arxiv.org/pdf/2110.03681.pdf)
     - Reduces communication rounds, addresses statistical heterogeneity by transmitting update data that is more expressive than simple model weights/gradients
 - Fed-SNN: Federated Learning with Spiking Neural Networks [`PDF`](https://arxiv.org/pdf/2106.06579v1.pdf) [`Github`](https://github.com/Intelligent-Computing-Lab-Yale/FedSNN)
     - Optimizes for energy efficiency
 - Swan: A Neural Engine for Efficient DNN Training on Smartphone SoCs [`PDF`](https://arxiv.org/pdf/2206.04687.pdf)
+- **(ICLR 2021)**: Federated Learning via Posterior Averaging: A New Perspective and Practical Algorithms [`PDF`](https://arxiv.org/pdf/2010.05273.pdf) [`Github`](https://github.com/alshedivat/fedpa)
 
 
 ## FL Systems from big tech companies
