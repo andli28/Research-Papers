@@ -21,6 +21,7 @@ This list will be organized by topic and attack model (if applicable).
     - [Paper](#paper)
   - [Data Center Architecture](#data-center-architecture)
   - [Surveys](#surveys)
+  - [LLMs](#llms)
   - [Other FL Paper Lists](other-fl-paper-lists)
 
 ## Privacy 
@@ -82,6 +83,9 @@ This list will be organized by topic and attack model (if applicable).
 ## Surveys
 - A survey on security and privacy of federated learning [`URL`](https://www.sciencedirect.com/science/article/abs/pii/S0167739X20329848)
 - Survey on Federated Learning Threats: concepts, taxonomy on attacks and defences, experimental study and challenges [`PDF`](https://arxiv.org/pdf/2201.08135.pdf)
+
+## LLMs
+- In AI, is bigger always better? [`Nature`](https://doi.org/10.1038/d41586-023-00641-w)
 
 
 ## Other FL paper lists
