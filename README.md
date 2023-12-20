@@ -90,7 +90,8 @@ This list will be organized by topic and attack model (if applicable).
 - Voyager, An Open-Ended Embodied Agent with Large Language Models ['Website`](https://voyager.minedojo.org/)
     - Vector Database of skills (GPT-4 Generated Code). Keys are descriptions, while the Value is the code of "skills"
 - MemGPT: Towards LLMs as Operating Systems [`PDF`](https://arxiv.org/pdf/2310.08560.pdf)
-    - LLM manages different memory tiers to provide the appearance of large memory resources through data movement between fast
+    - LLMs are constrained by limited context windows, hindering their utility in tasks like extended conversations and document analysis
+    - MemGPT manages different memory tiers to provide the appearance of large memory resources through data movement between fast
 and slow memory (similar to traditional OS virtual context management)
 
 
