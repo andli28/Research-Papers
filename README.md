@@ -86,6 +86,8 @@ This list will be organized by topic and attack model (if applicable).
 
 ## LLMs
 - In AI, is bigger always better? [`Nature`](https://doi.org/10.1038/d41586-023-00641-w)
+- Voyager, An Open-Ended Embodied Agent with Large Language Models ['Website`](https://voyager.minedojo.org/)
+      - Vector Database of skills (GPT-4 Generated Code). Keys are descriptions, while the Value is the code of "skills"
 
 
 ## Other FL paper lists
