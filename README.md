@@ -23,6 +23,7 @@ This list will be organized by topic and attack model (if applicable).
   - [Surveys](#surveys)
   - [LLMs](#llms)
   - [Other FL Paper Lists](other-fl-paper-lists)
+  - [Other Lists](other-lists)
 
 ## Privacy 
 
@@ -99,3 +100,6 @@ and slow memory (similar to traditional OS virtual context management)
 - https://github.com/chaoyanghe/Awesome-Federated-Learning
 - https://github.com/weimingwill/awesome-federated-learning#resource-allocation
 - https://github.com/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data#federated-learning-framework
+
+## Other Lists
+- [`UMich EECS 598: Systems for GenAI`](https://github.com/mosharaf/eecs598/tree/w24-genai)
