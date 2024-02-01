@@ -22,6 +22,7 @@ This list will be organized by topic and attack model (if applicable).
   - [Data Center Architecture](#data-center-architecture)
   - [Surveys](#surveys)
   - [LLMs](#llms)
+  - [MLSys](#mlsys)
   - [Other FL Paper Lists](other-fl-paper-lists)
   - [Other Lists](other-lists)
 
@@ -87,12 +88,15 @@ This list will be organized by topic and attack model (if applicable).
 
 ## LLMs
 - In AI, is bigger always better? [`Nature`](https://doi.org/10.1038/d41586-023-00641-w)
-- Voyager, An Open-Ended Embodied Agent with Large Language Models ['Website`](https://voyager.minedojo.org/)
+- Voyager, An Open-Ended Embodied Agent with Large Language Models [`Website`](https://voyager.minedojo.org/)
     - Vector Database of skills (GPT-4 Generated Code). Keys are descriptions, while the Value is the code of "skills"
 - MemGPT: Towards LLMs as Operating Systems [`PDF`](https://arxiv.org/pdf/2310.08560.pdf)
     - LLMs are constrained by limited context windows, hindering their utility in tasks like extended conversations and document analysis
     - MemGPT manages different memory tiers to provide the appearance of large memory resources through data movement between fast
 and slow memory (similar to traditional OS virtual context management)
+
+## MLSys
+- Hidden Technical Debt in Machine Learning Systems [`NeurIPS PDF`](https://proceedings.neurips.cc/paper/2015/file/86df7dcfd896fcaf2674f757a2463eba-Paper.pdf)
 
 
 ## Other FL paper lists
