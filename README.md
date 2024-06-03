@@ -95,9 +95,13 @@ This list will be organized by topic and attack model (if applicable).
     - MemGPT manages different memory tiers to provide the appearance of large memory resources through data movement between fast
 and slow memory (similar to traditional OS virtual context management)
 
-## MLSys
-- Hidden Technical Debt in Machine Learning Systems [`NeurIPS PDF`](https://proceedings.neurips.cc/paper/2015/file/86df7dcfd896fcaf2674f757a2463eba-Paper.pdf)
+- Agent Hospital: A Simulacrum of Hospital with Evolvable Medical Agents [`arxiv`](https://arxiv.org/abs/2405.02957)
+    - LLMs roleplay as doctors, nurses, patients
+    - "After treating around ten thousand patients (real-world doctors may take over two years), the evolved doctor agent achieves a state-of-the-art accuracy of 93.06% on a subset of the MedQA dataset that covers major respiratory diseases."
+- (Perhaps) Beyond Human Translation: Harnessing Multi-Agent Collaboration for Translating Ultra-Long Literary Texts [`arxiv`](https://arxiv.org/html/2405.11804v1)
 
+## MLSys
+- Hidden Technical Debt in Machine Learning Systems [`NeurIPS PDF`](https://proceedings.neurips.cc/paper/2015/file/86df7dcfd896fcaf2674f757a2463eba-Paper.pdf
 
 ## Other FL paper lists
 - https://github.com/AmberLJC/FLsystem-paper/
