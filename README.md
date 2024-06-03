@@ -3,7 +3,7 @@ These are the papers I find interesting, mostly focused around the intersection 
 I may also list papers relating to the fundamentals of ML/FL infrastructure, or topics involving AI alignment and fairness.
 There also might be non-papers in here! I am including whatever helps me grasp the concepts the easiest.
 
-My current focus is the burgeoning field of FL. See [OpenMined](https://blog.openmined.org/federated-learning-types/) for a brief overview of the types of FL.
+See [OpenMined](https://blog.openmined.org/federated-learning-types/) for a brief overview of the types of FL.
 
 This list will be organized by topic and attack model (if applicable).
 
