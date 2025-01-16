@@ -99,6 +99,9 @@ and slow memory (similar to traditional OS virtual context management)
     - LLMs roleplay as doctors, nurses, patients
     - "After treating around ten thousand patients (real-world doctors may take over two years), the evolved doctor agent achieves a state-of-the-art accuracy of 93.06% on a subset of the MedQA dataset that covers major respiratory diseases."
 - (Perhaps) Beyond Human Translation: Harnessing Multi-Agent Collaboration for Translating Ultra-Long Literary Texts [`arxiv`](https://arxiv.org/html/2405.11804v1)
+- Titans: Learning to Memorize at Test Time [`arxiv`](https://arxiv.org/abs/2501.00663)
+    - "We present a new neural long-term memory module that learns to memorize historical context and helps attention to attend to the current context while utilizing long past information"
+    - Scales better than transformers for long context windows, maintains high accuracy
 
 ## MLSys
 - Hidden Technical Debt in Machine Learning Systems [`NeurIPS PDF`](https://proceedings.neurips.cc/paper/2015/file/86df7dcfd896fcaf2674f757a2463eba-Paper.pdf
