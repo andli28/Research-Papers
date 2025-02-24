@@ -105,6 +105,11 @@ and slow memory (similar to traditional OS virtual context management)
 
 ## MLSys
 - Hidden Technical Debt in Machine Learning Systems [`NeurIPS PDF`](https://proceedings.neurips.cc/paper/2015/file/86df7dcfd896fcaf2674f757a2463eba-Paper.pdf
+- Autellix: An Efficient Serving Engine for LLM Agents as General Programs [`PDF`](https://arxiv.org/html/2502.13965v1)
+    - Autellix's approach is to prioritizing calls based on total execution time. They introduce two non-clairvoyant scheduling algorithms that assume no prior workload knowledge of programs.
+    - PLAS (Program-Level Attained Service) is for single-threaded programs and ATLAS (Adaptive Thread-Level Attained Service) is for multi-threaded programs represented as general, dynamic DAGs.
+    - PLAS prioritizes LLM calls based on the current cumulative service, or execution times, of their source program. ATLAS generalizes that to the maximum cumulative service time across all threads in the same program.
+    - The goal is to minimize waiting and enhance performance
 
 ## Other FL paper lists
 - https://github.com/AmberLJC/FLsystem-paper/
