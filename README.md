@@ -102,6 +102,8 @@ and slow memory (similar to traditional OS virtual context management)
 - Titans: Learning to Memorize at Test Time [`arxiv`](https://arxiv.org/abs/2501.00663)
     - "We present a new neural long-term memory module that learns to memorize historical context and helps attention to attend to the current context while utilizing long past information"
     - Scales better than transformers for long context windows, maintains high accuracy
+- Fairness through Difference Awareness: Measuring Desired Group Discrimination in LLMs [`arxiv`](https://arxiv.org/pdf/2502.01926)
+    - "Our primary call to action in this work is to bring attention to the important notion of difference awareness."
 
 ## MLSys
 - Hidden Technical Debt in Machine Learning Systems [`NeurIPS PDF`](https://proceedings.neurips.cc/paper/2015/file/86df7dcfd896fcaf2674f757a2463eba-Paper.pdf
