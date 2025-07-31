@@ -104,6 +104,8 @@ and slow memory (similar to traditional OS virtual context management)
     - Scales better than transformers for long context windows, maintains high accuracy
 - Fairness through Difference Awareness: Measuring Desired Group Discrimination in LLMs [`arxiv`](https://arxiv.org/pdf/2502.01926)
     - "Our primary call to action in this work is to bring attention to the important notion of difference awareness."
+- The Big LLM Architecture Comparison (July 2025) [`Substack`](https://magazine.sebastianraschka.com/p/the-big-llm-architecture-comparison)
+
 
 ## MLSys
 - Hidden Technical Debt in Machine Learning Systems [`NeurIPS PDF`](https://proceedings.neurips.cc/paper/2015/file/86df7dcfd896fcaf2674f757a2463eba-Paper.pdf
